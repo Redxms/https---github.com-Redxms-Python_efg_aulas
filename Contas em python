@@ -1,0 +1,12 @@
+#Os símbolos de conta em Python são usados para realizar operações matemáticas. Aqui está uma lista dos símbolos de conta mais comuns em Python:
+
++ é usado para adição.
+- é usado para subtração.
+* é usado para multiplicação.
+/ é usado para divisão.
+** é usado para exponenciação.
+% é usado para módulo (resto da divisão).
+// é usado para divisão inteira.
+Esses símbolos podem ser usados com números e variáveis numéricas em Python. Por exemplo, se você quiser adicionar dois números, pode usar o símbolo +, como em 2 + 3. Se você quiser multiplicar dois números, pode usar o símbolo *, como em 2 * 3. Se você quiser atribuir um valor a uma variável, pode usar o símbolo =, como em x = 5.
+
+Espero que isso ajude!
